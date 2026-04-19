@@ -1,4 +1,4 @@
-//create an object
+//create an object that takes name, age, country, and hobby, and returns it in a sentence.
 const myProfile = { name: "Raphael", age: 25, country: "Nigeria", hobby: "Sport"};
 //create the function
 function displayProfile(person) {

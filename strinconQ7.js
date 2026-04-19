@@ -1,4 +1,4 @@
-//a function using the trim method to erase extra white space
+//a function that erase extra white space and swap the first and last names, and capitalize the last name.
 function formatName(firstName, lastName){
     let first = firstName.trim();
     let last = lastName.trim();

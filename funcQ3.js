@@ -2,5 +2,5 @@
 function greetUser(name){
     console.log("Welcome to TechCrush," + name);
 }
-//calling the name
+//calling the name with the giving value
 greetUser(" Raphael");

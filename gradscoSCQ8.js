@@ -1,4 +1,4 @@
-//a function that returns the letter grade of students
+//a function that returns a letter grade of students
 function gradeScores(score){
     if (score >= 70 && score <= 100){
         return 'A';

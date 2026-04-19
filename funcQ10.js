@@ -1,4 +1,4 @@
-//an array function that returns a new array with the student's name, score, and grade.
+//this is an array function that returns a new array with the student's name, score, and grade.
 function gradeScore(score){
     if (score >=90) return 'A';
     if (score >=80) return 'B';
