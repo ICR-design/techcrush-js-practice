@@ -1,4 +1,4 @@
-//push, shift
+//push, shift and getting its length
 const fruits = ["mango", "orange", "banana"];
 fruits.push("pineapple");
 fruits.shift();

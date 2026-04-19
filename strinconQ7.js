@@ -1,3 +1,4 @@
+//a function using the trim method to erase extra white space
 function formatName(firstName, lastName){
     let first = firstName.trim();
     let last = lastName.trim();
